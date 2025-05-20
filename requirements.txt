@@ -1,8 +1,7 @@
-streamlit==0.76.0
-tensorflow==2.11.0
-numpy==1.24.3
-pandas==1.4.4
-scikit-learn==1.0.1
-scipy==1.10.1
-pillow==9.3.0
-protobuf==3.20.3
+numpy
+pillow
+streamlit
+tensorflow
+matplotlib
+pandas
+keras
