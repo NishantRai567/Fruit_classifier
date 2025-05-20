@@ -8,7 +8,7 @@ from PIL import Image
 
 # load our model pipeline object
 
-model_filename='C:/Users/Nisha/OneDrive/Desktop/DATA SCIENCE INFINITY/Deep Learning/Deep Learning/CNN/models/fruits_cnn_tuned.h5'
+model_filename='C:/Users/Nisha/OneDrive/Desktop/DATA SCIENCE INFINITY/Deep Learning/Deep Learning/CNN/models/fruits_cnn_01.h5'
 model=load_model(model_filename)
 
 # add title and instructions
